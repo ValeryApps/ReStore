@@ -24,7 +24,6 @@ yarn-error.log*
 .vs
 .vscode
 obj
-wwwroot
 appsettings.json
 appsettings.Development.json
 bin
